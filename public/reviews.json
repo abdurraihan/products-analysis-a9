@@ -1,0 +1,25 @@
+[
+    { 
+        "id":"1", "name":"Raihan","review":"This was good book", "ratings":"5"
+    },
+
+    { 
+        "id":"2", "name":"Rahi","review":"This was  not good book", "ratings":"3"
+    },
+
+    { 
+        "id":"3", "name":"Rahat","review":"everyone should bye it", "ratings":"3"
+    },
+
+    { 
+        "id":"4", "name":"mimi","review":"I think it could be more well", "ratings":"4"
+    },
+
+    { 
+        "id":"5", "name":"Rokshana","review":"it is perfect book for us ", "ratings":"3"
+    },
+
+    { 
+        "id":"6", "name":"Abdul kuddus","review":"oh! this is an amazing book", "ratings":"5"
+    }
+]

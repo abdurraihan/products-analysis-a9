@@ -3,10 +3,11 @@ import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import About from './Component/About/About';
 import Blogs from './Component/Blogs/Blogs';
+import Dashbord from './Component/Dashbord/Dashbord';
 import Header from './Component/Header/Header';
 import Home from './Component/Home/Home';
 import NotFound from './Component/NotFound/NotFound';
-import Dashbord from './Component/Reviews/Dashbord/Dashbord';
+
 import Reviews from './Component/Reviews/Reviews';
 
 function App() {
