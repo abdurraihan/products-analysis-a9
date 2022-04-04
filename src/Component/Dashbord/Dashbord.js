@@ -1,9 +1,22 @@
-import React from 'react';
+
+import Barchart from '../BarChart/Barchart';
+import MyLineChart from '../MyLineChart/MyLineChart';
 
 const Dashbord = () => {
+      
+   
     return (
-        <div>
-            <h1>This is dashbord</h1>
+        <div className='flex justify-start m-9 p-5 items-center'>
+
+            <div >
+            <MyLineChart> </MyLineChart>
+            </div>
+
+            <div>
+                <Barchart></Barchart>
+            </div>
+
+
         </div>
     );
 };
