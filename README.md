@@ -1,4 +1,4 @@
-# what I do in this wev
+# what I do in this web
 ***
 * react router 
 * make two chart
